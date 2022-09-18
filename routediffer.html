@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Scott Hall</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="./styles/main.css">
+    </head>
+    <body>
+        <div id="container--main">
+            <a href="index.html">&#x2190; Go Back</a>
+            <h1>Routing Table Difference Utility</h1>
+
+            <ul>
+                <li><a href="https://github.com/RedDirtBits/routediffer" target="_blank">Source code</a></li>
+            </ul>
+            <p>The <b>RouteDiffer</b> utility performs an initial log in to a core router or switch and obtains the current routing table and stores it in a JSON file before any work is performed that may affect the routing table (protocol changes, etc.).</p>
+
+            <ul>
+                <li>Intended to be a <i>Source of Truth</i> as to the state and content of the routing table prior to any work being performed</li>
+                <li>If ran, and the source of truth file is not found, it will be created</li>
+                <li>Once work has been completed the script is run again</li>
+                <li>This will compare the current, post-work, routing table to the source of truth file and if any routes that were in the original file are not present in the current routing table a new file will be created in which stores the missing routes in JSON format</li>
+            </ul>
+        </div>
+    </body>
+</html>

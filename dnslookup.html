@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Scott Hall</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="./styles/main.css">
+    </head>
+    <body>
+        <div id="container--main">
+            <a href="index.html">&#x2190; Go Back</a>
+            <h1>DNS Lookup Utility (nslookups)</h1>
+
+            <ul>
+                <li><a href="https://github.com/RedDirtBits/PyLookupGUI" target="_blank">Source code</a></li>
+            </ul>
+            <p>The <b>DNS Lookup</b> is one of my earliest attempts at automating a tedious task.</p>
+
+            <p>In one position I worked at, we were often tasked with determining if IP addresses were still in DNS.  We would often receive lists that contained dozens (occassionally much more) of IP addresses.  If it were just a few IP addresses, there might be little benefit in trying to automate the task.  However, anyone that has used <i>nslookup</i> can understand what a time consuming tedious task it could be to do so for dozens if not more.</p>
+
+            <p>No one on the team at the time received such a list with anything resembling joy simply because of the time it took.  I had been looking for a project I could cut my <i>Python</i> teeth on and this seemed as good as any.  One of the issues I faced was that no one else on the team really enjoyed anything command line driven.  This, in turn, prompted me to see if I could not only automate the task, but do so using a GUI so that others would be more <i>comfortable</i> using it.</p>
+
+            <ul>
+                <li>Uses the <a href="https://www.pysimplegui.org/en/latest/" target="_blank">PySimpleGUI</a> library to wrap the script in a GUI frontend.</li>
+                <li>Performs IP address validation</li>
+                <li>Uses threading to speed up the process</li>
+                <li>If the IP address is valid, will attempt to resolve using both DNS and reverse DNS lookups</li>
+            </ul>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Scott Hall</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="./styles/main.css">
+    </head>
+    <body>
+        <div id="container--main">
+            <a href="index.html">&#x2190; Go Back</a>
+            <h1>Port Mapper</h1>
+
+            <ul>
+                <li><a href="https://github.com/RedDirtBits/BigMACMaps" target="_blank">Source code</a></li>
+            </ul>
+            <p>The <b>Port Mapper</b> utility was born out of a need to reconcille out-of-date documenation spread across many different sources in to a single, trustworthy document of what servers existed where with respect to Top of Rack switches.  Much of the documentation that <i>was</i> available was also badly out-of-date.  The only semi-reliable information was the IP addresses of the servers.  There was very little information as to what servers were still active and those which had been decommissioned.</p>
+
+            <p>Additionally, most of the personnel that could shed some light on this were no longer with the organization or had been impacted by recent workforce restructuring.  This left the current network refresh project in a precarious situation and at a near standstill as there was very little information with which to determine what applications were being used, the application owners, contact information, etc.</p>
+
+            <p>As a last ditch effort to try and gather <i>some</i> information, it was determined that we would have to cross-reference the core device ARP table to the Top of Rack switches.  Given the shear number of ARP entries (several thousand) this was going to be a rather painstaking task to perform manually.  Faced with that task I decided to see if the work could be automated with Python.  Out of that effort was born the <b>Port Mapper</b>.</p>
+
+            <ul>
+                <li>Logs into the core device (router or switch)</li>
+                <li>Captures and stores the ARP table of that device in a JSON object</li>
+                <li>One by one, logs into each Top of Rack switch and captures the MAC address table</li>
+                <li>Performs a search for the MAC address found in the ARP table in the switch MAC address table</li>
+                <li>If a match is found, the information is catpures and written to a CSV file</li>
+                <li>Can filter out trunk ports so that only access ports are matched</li>
+            </ul>
+        </div>
+    </body>
+</html>
