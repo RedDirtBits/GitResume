@@ -13,6 +13,7 @@ Skills & Qualifications
 - Experienced in performing remote diagnostics and troubleshooting
 - Certificates in Python programming with an interest in network automation and embeded micro-controller programming
 - U.S. Army veteran, Tactical Satellite Communications (MOS: 31Q)
+	- Honorable Discharge
 
 ## Work History
 ---
@@ -94,3 +95,12 @@ May 2021 - Current
 - Repaired 12, 24, and 36 volt electric trolling motors
 - Set up in-house testing, and provided support for electric trolling motors sold that simulated real world use providing much improved diagnostic of intermittent issues
 - Self-taught TIG welding in order to assist with the repair of aluminum and stainless steel propellers to enhance productivity during periods in which other repair work was minimal
+
+### United States Army - Tactical Satellite Communications
+1985 - 1990
+
+- Basic Training at Fort McClellan, AL
+- AIT at Fort Gordan, GA
+- Stationed at Camp Humphreys, South Korea
+	- 229th Signal Company, 8th Signal Brigade
+	- Tactical Satellite Communication Systems Operator 31Q
