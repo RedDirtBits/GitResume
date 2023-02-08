@@ -24,12 +24,14 @@ May 2021 - Current
 	- Replaced existing Cisco infrastructure with Extreme Networks
 	- Performed initial configuration and troubleshooting of configuration issues
 	- Responsible for Change Request submission, cut-over and short-term break/fix
-	- Routing protocol change from EIGRP to OSPF
+	-  Routing protocol change from EIGRP to OSPF
 	- Server Top of Rack migrations
-    	- Responsible for discovery process of physical and virtual servers
-    	- Applications and Application Owners
-    	- Documenting cable connections
-    	- Documentation of IP addresses and MAC addresses
+		- Led the effort for server migrations of two datacenters
+		- Responsible for discovery process of physical and virtual servers
+		- Applications and Application Owners
+		- Documenting cable connections
+		- Documentation of IP addresses and MAC addresses
+		- Configuration of Top of Rack Aggregation and Access switches
 	- Documentation of IDF/MDF's
 		- Identifying rack equipment
 		- Cable labeling
