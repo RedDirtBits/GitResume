@@ -91,7 +91,7 @@ May 2021 - Current
 
 - Troubleshot, maintained, repaired and installed electronic and electrical equipment for the use in outboard boats
 - Responsible for implementing a program in-house to reduce turn around time on electrical and electronics sold.
-- Identified common failures or such things as electronic depth finders, maintained an inventory of repair parts, reducing repair turn around times to as little as 24-hours in many cases
+- Identified common failures on equipment such as electronic depth finders, maintained an inventory of repair parts, reducing repair turn around times to as little as 24-hours in many cases
 - Repaired 12, 24, and 36 volt electric trolling motors
 - Set up in-house testing, and provided support for electric trolling motors sold that simulated real world use providing much improved diagnostic of intermittent issues
 - Self-taught TIG welding in order to assist with the repair of aluminum and stainless steel propellers to enhance productivity during periods in which other repair work was minimal
