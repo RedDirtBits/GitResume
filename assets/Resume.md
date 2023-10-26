@@ -33,6 +33,12 @@ May 2021 - Current
 		- Documenting cable connections
 		- Documentation of IP addresses and MAC addresses
 		- Configuration of Top of Rack Aggregation and Access switches
+	- Patient Monitoring (GE Biomed) migrations
+		- Led the effort for the migration of patient monitoring at six hospitals
+		- Discovery of all L2 devices
+		- Over 100 Cisco switches with 1500+ connections
+		- Conversion of Cisco configurations for migration to Extreme Networks switches
+		- Responsible for scheduling and migration
 	- Documentation of IDF/MDF's
 		- Identifying rack equipment
 		- Cable labeling
@@ -91,7 +97,7 @@ May 2021 - Current
 
 - Troubleshot, maintained, repaired and installed electronic and electrical equipment for the use in outboard boats
 - Responsible for implementing a program in-house to reduce turn around time on electrical and electronics sold.
-- Identified common failures on equipment such as electronic depth finders, maintained an inventory of repair parts, reducing repair turn around times to as little as 24-hours in many cases
+- Identified common failures or such things as electronic depth finders, maintained an inventory of repair parts, reducing repair turn around times to as little as 24-hours in many cases
 - Repaired 12, 24, and 36 volt electric trolling motors
 - Set up in-house testing, and provided support for electric trolling motors sold that simulated real world use providing much improved diagnostic of intermittent issues
 - Self-taught TIG welding in order to assist with the repair of aluminum and stainless steel propellers to enhance productivity during periods in which other repair work was minimal
