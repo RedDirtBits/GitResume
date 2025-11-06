@@ -19,7 +19,7 @@ Skills & Qualifications
 ---
 
 ### Ascension Health Systems (TEKSystems)
-May 2021 - Current
+May 2021 - May 2024
 
 - Campus wide LAN refresh project including area clinics and community hospitals
 	- Replaced existing Cisco infrastructure with Extreme Networks
@@ -89,7 +89,7 @@ May 2021 - Current
 - Designed, built and implemented an electronic safety system used in the production of plastic gloves to prevent the intrusion into areas of machine operation that were potential safety hazards
 - Proposed and implemented temperature controls that replaced mechanical controls that resulted in greatly improved temperature accuracy that improved product quality
 - Identified and developed a solution for a long standing issue with power switching relays that controlled heating elements, resulting in a nearly 200% increase in reliability reducing operating costs and down time.
-- Designed and implemented an electronic switching system that allowed for higher production rates that the existing mechanical system
+- Designed and implemented an electronic switching system that allowed for higher production rates than the existing mechanical system
 
 
 ### Professional Propeller (Tulsa, OK) - Electronics Technician
