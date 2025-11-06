@@ -19,7 +19,7 @@ Skills & Qualifications
 ---
 
 ### Ascension Health Systems (TEKSystems)
-May 2021 - May 2024
+May 2021 - Present
 
 - Campus wide LAN refresh project including area clinics and community hospitals
 	- Replaced existing Cisco infrastructure with Extreme Networks
@@ -36,7 +36,6 @@ May 2021 - May 2024
 	- Patient Monitoring (GE Biomed) migrations
 		- Led the effort for the migration of patient monitoring at six hospitals
 		- Discovery of all L2 devices
-		- Over 100 Cisco switches with 1500+ connections
 		- Conversion of Cisco configurations for migration to Extreme Networks switches
 		- Responsible for scheduling and migration
 	- Documentation of IDF/MDF's
@@ -45,6 +44,8 @@ May 2021 - May 2024
 		- Identification of unused switch ports
 		- Removal of unused cables
 		- Decommissioning of Cisco infrastructure
+    - Led the effort to upgrade the firmware of over 450 edge switches across two markets
+    - Support of day-to-day operations with major incident and technical assistance troubleshooting
 
 
 ### ConocoPhillips (Bartlesville, OK) - Network Operation Center
