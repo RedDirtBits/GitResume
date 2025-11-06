@@ -1,4 +1,4 @@
-# Scott Hall
+# Scotty Hall
 ---
 
 Network Technician, Python Automater, Microcontroller Enthusist, Challenge Seeker
